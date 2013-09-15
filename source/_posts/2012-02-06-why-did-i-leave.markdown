@@ -6,7 +6,7 @@ comments: true
 categories: [Freelancing,Why]
 ---
 
-TL;DR: It is not so much about the money for me, I like to write code and this way I get to do
+TL;DR: I like to write code and choose the technologies I work with. This way I get to do
 what I like to do, most of the times.
 
 Since a lot of my colleagues have learnt about my recent decision to walk away
